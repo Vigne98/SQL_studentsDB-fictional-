@@ -4,4 +4,7 @@
 
 
 <h2><br/>Overview</h2>
-This repository contains SQL code for the Students Database project implemented in PostgreSQL. The database is designed to store information about students with their first name, last name, gpa and major choice, this last including which courses take part for each. The fictional data provided in this database is for demonstration purposes only. 
+This repository contains SQL code for the Students Database project implemented in PostgreSQL. The database is designed to store information about students with their first name, last name, gpa and major choice, this last including which courses take part for each. <br/>
+The fictional data provided in this database is for demonstration purposes only. <br/>
+<br/>
+<h4>Queries are presented via BASH script which can de found here: <a href="https://github.com/Vigne98/SQL_studentsDB-fictional-/blob/61b3bd0aadd3fd62b184f8f16d4ecf84ce91f48b/Part%20II%20querying%20DB/student_queries.sh">BASH SCRIPT</a></h4> 
